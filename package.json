@@ -1,0 +1,16 @@
+{
+  "name": "blockchiain",
+  "version": "1.0.0",
+  "main": "blockchain.js",
+  "scripts": {
+    "start": "node blockchain.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "nodemon": "^3.1.4"
+  }
+}
